@@ -1,7 +1,7 @@
 // Requests go through the Vite dev-server proxy (/api -> VITE_API_TARGET),
 // so the browser never needs to reach the backend directly. This works both
 // for local dev (localhost:8080) and the Bolt preview (a public tunnel URL).
-const BASE_URL = 'https://chic-gratitude-production-d592.up.railway.app';
+const BASE_URL = 'https://proactive-adventure-production-d3d4.up.railway.app';
 
 // ---- Backend model shapes (Spring Boot) ----
 
